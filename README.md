@@ -16,4 +16,5 @@ This project is one of the required projects in the Udacity Data Analyst Degree.
   - **CSV files/ab_data.csv** : The Dataset that is used in this project.
   - **CSV files/countries.csv** : The Dataset that is used in this project.
   - **Analyze_ab_test_results_notebook.ipynb** : Jupyter Notebook, includes all the code for the probability, A/B Testing, and Regression section. And in the end the end my recommendation.
+  - **Analyze_ab_test_results_notebook.html**: An HTML version of the notebook, for an easy way to observe the Jupyter Notebook.
   - **Analyze_ab_test_results_notebook.pdf**: A PDF version of the notebook, for an easy way to observe the Jupyter Notebook.
